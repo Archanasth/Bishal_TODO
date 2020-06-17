@@ -29,7 +29,7 @@ Model View View Model (MVVM)
 > SQLlite 
 
 # App Demonstration
-<img src="https://github.com/bishalsofficial/Bishal_TODO/tree/master/Screenshots/Application%20Demo%20%20Gif.gif"/>
+<img src="https://github.com/bishalsofficial/Bishal_TODO/tree/master/Screenshots/ApplicationDemo.gif"/>
 
 # Screen Shots
 <a href="https://github.com/bishalsofficial/Bishal_TODO/tree/master/Screenshots">Click here to view images</a>
